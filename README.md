@@ -6,4 +6,4 @@ Your job is to finish the test cases to get 100% coverage of ``isGameOver()``. W
 
 Try not to add more tests than you need.
 
-This is due by the start of class on Thursday.
+This is due by the start of class on Tuesday.
