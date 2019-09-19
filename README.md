@@ -6,4 +6,14 @@ Your job is to finish the test cases to get 100% coverage of ``isGameOver()``. W
 
 Try not to add more tests than you need.
 
-This is due by the start of class on Thursday.
+## Installing eclEmma
+
+1. From your Eclipse menu select Help → Eclipse Marketplace.
+
+2. Search for "EclEmma".
+
+3. Hit Install for the entry "EclEmma Java Code Coverage".
+
+4. Follow the steps in the installation wizard. 
+
+This is due by the start of class on Tuesday.
