@@ -16,4 +16,4 @@ Try not to add more tests than you need.
 
 4. Follow the steps in the installation wizard. 
 
-This is due by the start of class (12:30pm) on Tuesday, September 29, 2020.
+
